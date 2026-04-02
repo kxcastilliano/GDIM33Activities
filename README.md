@@ -15,6 +15,8 @@ I'll have time to daydream and visualize potential ideas for this project.
 
 ### Activity 2
 
+[Breakdown Ver.1 .pdf](https://github.com/user-attachments/files/26425644/Breakdown.Ver.1.pdf)
+
 
 
 ## W2
