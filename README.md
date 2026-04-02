@@ -1,17 +1,21 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
 
-1. Put your activity 1 answers here.
-2. Please keep the proper list format.
+[Link to Mood Board](https://pin.it/3FpnkK9Ln)
+
+1. Looking at my moodboard some things that sparked similarity is my love for narrative heavy games. I love games with memorable/loveable character designs/lore with hints of social commentary/psychological undertones. 
+I am stuck looking for visuals or a good plotline for this game since I love a lot of various different aesthethics. a lot of my creative ideas are I take great iunspiration from songs I like so just having some time to myself 
+I'll have time to daydream and visualize potential ideas for this project. 
+
+2. Looking at my table mates ideas we seem to have a lot of aestheitc differences visually, some are horror fans and some like more action based games rather than visual novels. 
+
+3.  Similarly, LAs appears to enjoy more action based and serious toned games- much different than the whimsy approach I want to take. 
 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+
 
 
 ## W2
-Write your W2 Devlog here.
 
-Continue adding additional headers below this one for future weeks and future activities.
