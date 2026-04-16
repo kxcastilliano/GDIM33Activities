@@ -23,3 +23,7 @@ I'll have time to daydream and visualize potential ideas for this project.
 
 ## W2
 
+
+## W3
+
+### Activtiy 1
