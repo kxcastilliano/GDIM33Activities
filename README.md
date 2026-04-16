@@ -30,3 +30,23 @@ I'll have time to daydream and visualize potential ideas for this project.
 ### Activtiy 1
 
 <img width="1206" height="855" alt="Updated Breakdown" src="https://github.com/user-attachments/assets/0e3c3950-d5f7-4861-b37f-c075169f81d7" />
+
+### Activity 2
+
+#### Question 1 
+
+It is advantageous to save the event name for the explore-to-dialogue state transitions as a Scene variable as it makes the event easy to reference within other graphs for example by making it a scene variable we could input it into the walrus' graph.
+
+#### Question 2
+
+I had used Debug.log nodes for two instances, checking to see if the game was registering when the mouse was clicked and to see if the transitions were working. By putting Debug.log I was able to easily identify what the root of my problem was when I saw that certain things weren't processing in the game:
+by seeing that the console was registering each mouse click I was able to understand that th issue wasn't with the on click event but with the calling of the transition. 
+
+#### Question 3
+
+Since my game is 2d and lacks any movement of any sort, I do not believe that set cursor lock state will be relevant in the architecture of my game. 
+
+### Question 4
+
+The concept of a game state could be relevent to my game and it's something I'm considering adding in turns of making a state machine active in the game: In my game I plan to have two states that activate at the end but are able to change as the player 
+gains or loses points to their friendship meter, by tracking their points the value will determine if they are at the state that will lead to the good ending and the state that will lead to the bad ending. 
