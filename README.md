@@ -1,3 +1,4 @@
+<img width="1206" height="855" alt="Updated Breakdown" src="https://github.com/user-attachments/assets/06d196ad-3085-41a5-bcb1-173e2f23e565" />
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
@@ -27,3 +28,5 @@ I'll have time to daydream and visualize potential ideas for this project.
 ## W3
 
 ### Activtiy 1
+
+<img width="1206" height="855" alt="Updated Breakdown" src="https://github.com/user-attachments/assets/0e3c3950-d5f7-4861-b37f-c075169f81d7" />
