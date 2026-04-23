@@ -50,3 +50,23 @@ Since my game is 2d and lacks any movement of any sort, I do not believe that se
 
 The concept of a game state could be relevent to my game and it's something I'm considering adding in turns of making a state machine active in the game: In my game I plan to have two states that activate at the end but are able to change as the player 
 gains or loses points to their friendship meter, by tracking their points the value will determine if they are at the state that will lead to the good ending and the state that will lead to the bad ending. 
+
+## W4
+
+### Activiy 1
+
+#### playtest goals
+So far in my current build I have a simple dialogue sequence/gameplay, there are no choices implemented yet so for now in terms of a playtesting goal, I want to check with group if 
+this system seems smooth and if the game (though character art isn't implemented) feels engaging. 
+
+#### playtest team members
+Alejandra, Laura, Bilal.
+
+#### playtest notes
+- Dialogue runs smoothly
+- likes how the UI flips to accomodate for the character who is speaking.
+
+### Actiity 2
+
+
+
