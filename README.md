@@ -68,5 +68,19 @@ Alejandra, Laura, Bilal.
 
 ### Actiity 2
 
+#### Question 1
+
+In the event a writer wants to add more dialogue to the set up, they will be able to do this without the event of any coding due to the dialogue nodes being managed as scriptable objects in the game's inspector.
+
+#### Question 2
+
+I believe there is no limit to how much dialogue can be made without any coding involved due to a. the use of ScriptableObjects being used and b. the fact that the script graph is constantly checking nodes and registering it's reply option plus what the reply options each lead to within a for loop node. 
+
+#### Question 3
+
+Regenerating Nodes helps new nodes be able to properly process. When we create new variables and methods it's important to regenerate nodes so unity can look through it's list and realize that it didn't make any nodes for these new things added and as a result of regenerating unity will have these nodes made for us.
+
+
+
 
 
