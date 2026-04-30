@@ -81,6 +81,37 @@ I believe there is no limit to how much dialogue can be made without any coding 
 Regenerating Nodes helps new nodes be able to properly process. When we create new variables and methods it's important to regenerate nodes so unity can look through it's list and realize that it didn't make any nodes for these new things added and as a result of regenerating unity will have these nodes made for us.
 
 
+## W5
+
+### Activity 1
+Using Tineline to create a sequenced cutscene
+
+#### Creating a starting cutscene
+
+1. Create a new scene to put cutscene in 
+2. Download and install timeline (if package isn't downloaded)
+3. Window -> sequncing -> Tinmeline to create a tinmeline in scene
+4. Create timeline and save somewehre within Asset folder 
+5. Create gameobjects for Image UI you want in cutscene
+6. Right click on timeline and ass an animation track
+7. drag image in animator spot of timeline
+8. Click Record, drag animations by the amount of frames you want animation to run and lower image's opacity.
+9. Copy background of main game and layer it behind the dissapearing image(s)
+
+#### Transitioning from cutscene to scene with gameplay logic. 
+
+1. create a scene changer gameobject with a scene changer c# script component.
+2. Open the scenechanger class, make sure it's using Unity.Engine.SceneManagement
+3. Create a float variable that will be used to determine the amount of time the cut scene has before transitioning back to the gameplay scene. 
+4. Create an if statement within the update method of the class which tracks when the transition time reaches zero and as a result, loads the gameplay scene. 
+
+
+### Activity 2
+
+Built in class today, I was able to use timeline to make a start of game cutscene and two transitions for when the player reaches the end of their dialogue and is sent to a end game scene. for my starting scene I made it transition fade to the game's enviornment scene 
+and using a scene changer script I coded so that when the scene ran for a certain amount of time it would then load to the scene that stores all my games' gameplay. 
+
+
 
 
 
