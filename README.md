@@ -112,6 +112,24 @@ Built in class today, I was able to use timeline to make a start of game cutscen
 and using a scene changer script I coded so that when the scene ran for a certain amount of time it would then load to the scene that stores all my games' gameplay. 
 
 
+## W6
+
+### Activity 1
+
+#### Playtest Goals and Current Progress
+Since milestone 1, my current build has two new scenes: a start game scene with a start button that leads into an opening cutscene and then transitions into gameplay. I have also added more official dialogue rather than placeholders. 
+As for my playtest notes, I want to see if players enjoy the cutscenes, the art, and ask them questions about dialogue (how does this character make you feel?) Just to see if my narrative point is hitting the mark.
+
+[Link to playtest build](https://kxcastilliano.itch.io/kalidescope-eyes-56)
+
+#### Playtest Notes
+
+- Players enjoyed the cutscene and it gave good context to the storyline of the game.
+- Dialogue choices and mechanics ran smoothly. 
+- Dialogue is well written and stroy seems interesting. 
+
+
+
 
 
 
