@@ -126,7 +126,24 @@ As for my playtest notes, I want to see if players enjoy the cutscenes, the art,
 
 - Players enjoyed the cutscene and it gave good context to the storyline of the game.
 - Dialogue choices and mechanics ran smoothly. 
-- Dialogue is well written and stroy seems interesting. 
+- Dialogue is well written and story seems interesting. 
+
+### Activity 2
+
+#### Question 1
+Since all of the color values are decimals and scale from 0-1, that would mean when multiplying two decimal based numbers together the end result would be a smaller decimal. Smaller decimal numbers create darker numbers since they are closer to 0. 
+
+#### Question 2
+
+If we used Multiply for the alpha layers I'd assume it would make things more transparent given the logic where smaller numbers come out of multiplicatrion and the closer to zero it get's the more transparent it will be from a scale of 0-1.
+
+#### Question 3
+
+The shader grabs the UV values from the Shiba textures mesh values. 
+
+#### Question 4
+
+Coming from someone who is an artist and is familair with this values such as Multiply and Overlay I do think seeing it break down mathmatically and seeing these value happen and process in code is interesting and am curious to learn more about it!
 
 
 
