@@ -146,6 +146,24 @@ The shader grabs the UV values from the Shiba textures mesh values.
 Coming from someone who is an artist and is familair with this values such as Multiply and Overlay I do think seeing it break down mathmatically and seeing these value happen and process in code is interesting and am curious to learn more about it!
 
 
+## W7 
+
+### Devlog Questions: Shader Activity
+
+1. In our vertex color shader in step 2, the color from the vertex color node is from the color data that can be defined through the meshes vertex.
+
+2. the color of our shiba in step 3 is blended  at the edges of different regions of colors since the data is tracking the mesh's surgace normals and given the dats o the mesh's x,y,z it tracks and converts it into it's corresponding colors depending on the axis. 
+
+3. The coloring of th vertex color is less detailed due to the constraints that come with only utulizing the meshes vertex information. It only knocks down 3 colors for it's three surface normal axis which means the shiba is only gonna be colored with three colors. A good usage for vertex colors could be simple game objects and textures such as fire or water. 
+
+4. Based on the coloring it appear's that the shiba's normals are having it so that the lighting is having the shiba lit backwards, when it's values should have it so that the outer surface of the shiba are brighter.
+
+5. We can use the dot poduct and lighting system of vertex nodes for debugging as we are able to verify that the lighting and shadinf of certain gameobjects is facing the same direction or ideal direction we want it to be on. 
+
+6. The light is pointing towards the shiba however it's polygons that are facing the light are dark when they should be light. 
+
+7. We had sent the Blend mode to Additive in order to make the fire have that translucent glow to it. 
+
 
 
 
