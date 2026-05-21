@@ -164,6 +164,21 @@ Coming from someone who is an artist and is familair with this values such as Mu
 
 7. We had sent the Blend mode to Additive in order to make the fire have that translucent glow to it. 
 
+## W8
+
+### Activity 1: Playtest
+
+#### Pre-playtest
+Since milestone 2, I wasn't able to do much towards the progression of the game coding wise, There has been new dialogue written but hsnt been added to the gameloop. The game's start game scene also uses a subtle shader graph. 
+[Here is a link to the playtesting build](https://kxcastilliano.itch.io/kaleidoscope-eyes-520-build)
+
+#### Playtesting goals
+My playtesitng goals for this session:
+Should there be a visual indicator that shows players that they are out of a cutscene and can now play through dialogue?
+Is there enough routes/ choice sequences and endings to the game or should there be more progression?
+Thoughts on the current cutscene/story.
+
+#### Playtesting notes 
 
 
 
