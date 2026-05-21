@@ -179,6 +179,23 @@ Is there enough routes/ choice sequences and endings to the game or should there
 Thoughts on the current cutscene/story.
 
 #### Playtesting notes 
+- Visual indicators would be nice plus makign the character name text easier to see. 
+- endings feel like enough, plus choices.
+- all the visuals and the sounds are nice! 
+- Engaging.
+
+### Activity 2: Shader Activity 2A
+
+1. We utilize the stencil buffer to create the outline and cel render  effect through the stencilwritepass render feature, we had set this feature to occur prior to rendering the outline itself. This feature only applies to the layer outline and essentially what it does is that it checks for all objects under this layer and will always pass through and replace and then with the second render pipe it checks for the texture and everything that is not equal to the value of one will not be drawn? Thus creating this outline around the shiba.
+
+
+2. It appears that a number of shadows are being drawn twice within the MainLightShadow batch, it seems to be drawing twice because these objects have different shadow casting shaders or properties that are affecting the pass.
+
+3.  We could improve by either Deleting certain batches or managing said objects properties?
+
+
+4. Since it ranges from a scale of 0-1 with 0 being no shadows and 1 being full on shadows, It’s best to assume that anywhere between 0.3-0.5 would be a good amount of shadows for the object.
+
 
 
 
