@@ -194,7 +194,7 @@ Thoughts on the current cutscene/story.
 3.  We could improve by either Deleting certain batches or managing said objects properties?
 
 
-4. Since it ranges from a scale of 0-1 with 0 being no shadows and 1 being full on shadows, It’s best to assume that anywhere between 0.3-0.5 would be a good amount of shadows for the object.
+4. Since it ranges from a scale of 0-1 with 0 being no shadows and 1 being full on shadows, ItÂ’s best to assume that anywhere between 0.3-0.5 would be a good amount of shadows for the object.
 
 ## W9
 
@@ -222,6 +222,8 @@ Material change?
 An effect in an individual object's material
 Set a timer to control red effect using Time.deltaTime
 
+### Activity 2
 
+<img width="1919" height="1152" alt="Screenshot 2026-05-27 191900" src="https://github.com/user-attachments/assets/1f578713-5925-47e2-90dd-522662d16c1f" />
 
 
