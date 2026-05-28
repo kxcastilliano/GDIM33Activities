@@ -227,3 +227,7 @@ Set a timer to control red effect using Time.deltaTime
 <img width="1919" height="1152" alt="Screenshot 2026-05-27 191900" src="https://github.com/user-attachments/assets/1f578713-5925-47e2-90dd-522662d16c1f" />
 
 
+Here is the screenshot of the shader graph I am working on, basically what it does is that it takes the uv of the character sprite, places it slightly to the right and using the alpha values of the sprite, multiplying with a color of choice it presents a little side outline along the sprite. An issue that 
+I was facing with this graph was the fact that not all of the colors of the sprite were showing on my sprite, to solve this I added that split node that seperated the sprites colors and alpha and used the split alpha as my shaders overall output. Another issue that I realized was the color node I had used an alpha of 0 which was why my sprite's outline was rarely visable, so I set that to a bigger number. 
+Finally, another area I problem solved was this issue where my sprite was showing black in the background when it was supposed to be transparent, to solve this: I enabled the "use sprite mesh" box on my image with the sprite. 
+
