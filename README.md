@@ -231,3 +231,30 @@ Here is the screenshot of the shader graph I am working on, basically what it do
 I was facing with this graph was the fact that not all of the colors of the sprite were showing on my sprite, to solve this I added that split node that seperated the sprites colors and alpha and used the split alpha as my shaders overall output. Another issue that I realized was the color node I had used an alpha of 0 which was why my sprite's outline was rarely visable, so I set that to a bigger number. 
 Finally, another area I problem solved was this issue where my sprite was showing black in the background when it was supposed to be transparent, to solve this: I enabled the "use sprite mesh" box on my image with the sprite. 
 
+
+
+## W10 
+
+### Activity 1- Playtesting 
+
+#### Pre-playtest / playtesting goals
+
+- Since milestone 2 I have yet to add anything in my project programming wise, however I had written out the endings I had been missing, they just need to be converted into my scriptableobjects.
+
+[Here is a limk to the playtest build](https://kxcastilliano.itch.io/kaleidoscope)
+
+Playest Goals: Are transitions still running smooth? How fun is the dialogue? Does it get too boring reading? Would it make sense for me to put my shader feature in the start screen with a pre-story UI hooked to it that blurs the background? Or should it be placed elsewhere?
+
+#### Post-Playtesting
+ 
+ Playtest Notes: 
+ Story is very nice! More sprite expresions would be nice!- Once ending art get's added it will be really cool and overall good!
+
+ ### Activity 2
+
+ For planning a game and breaking apart of a project such as a game: Break down the game mechanics of your game as well as the systems being used, Look at each mechanic individually and identify what methods, classes and gameobjects will use this. This way of identifying mechanics and seeing how much work is being put in the development in each of them, it helps limit your scope espeically when you are given a time goal and milestones between them. In 10 weeks you are not going to fit all of these big things in your games. 
+
+
+ ### Activity 3
+
+ what I worked on today for my vertical slice is my shader effect and now I have a sprite shader made that is activated from C# code! Now my menu blurs when you click e, i plan on adding a UI to this as well!
